@@ -70,7 +70,7 @@ const fragRadius = targetRadius / 3;
 let musicaFacha = new Audio("zzz.mp3");
 musicaFacha.loop = true;
 
-let musicaSins = new Audio("sins.mp3");
+let musicaSins = new Audio("chill.mp3");
 musicaSins.loop = true;
 
 
